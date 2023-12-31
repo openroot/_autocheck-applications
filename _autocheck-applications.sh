@@ -1,6 +1,6 @@
 #!/bin/bash
 # Name: _autocheck-applications.sh
-# Purpose: Autocheck 15 Applications bash script
+# Purpose: Autocheck 16 Applications bash script
 # ----------------------------------------------
 
 # region execute
@@ -25,6 +25,10 @@ sleep $_time;
 
 # Visual Code
 /usr/bin/code;
+sleep $_time;
+
+# Glade
+glade;
 sleep $_time;
 
 # Virtualbox
