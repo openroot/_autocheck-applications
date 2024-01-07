@@ -12,7 +12,7 @@ pulseeffects;
 sleep $_time;
 
 # Celluloid
-celluloid "/media/devop/0disk--1set/--multimedia/--video/--sample/Wild Snake in 4K Ultra HD - 1080p.mp4";
+celluloid "/media/devop/0disk--1set/--multimedia/--video/--sample/ASSERT/Wild Snake in 4K Ultra HD - 1080p.mp4";
 sleep $_time;
 
 # System Monitor
